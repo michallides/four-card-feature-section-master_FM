@@ -25,7 +25,7 @@ Users should be able to:
 
 #### Screenshot desktop
 
-![Desktop screenshot](./screenshot-desktop.png)
+![Desktop screenshot](./screnshot-desktop.png)
 
 #### Screenshot mobile
 
@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://michallides.github.io/four-card-feature-section-master_FM/](https://michallides.github.io/four-card-feature-section-master_FM/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
